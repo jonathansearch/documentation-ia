@@ -4,74 +4,74 @@
 
 [![RATISS Labs](https://img.shields.io/badge/RATISS_Labs-Deep_Tech_Sovereign-06b6d4)](https://github.com/jonathansearch)
 
-# 🤖 Documentation sur l'Intelligence Artificielle
+# 🤖 Documentation on Artificial Intelligence
 
-> Un guide complet et accessible pour comprendre l'IA : ses concepts, son histoire, ses applications et ses enjeux.
+> A complete and accessible guide to understand AI: its concepts, its history, its applications and its stakes.
 
 [![Licence: MIT](https://img.shields.io/badge/Licence-MIT-green.svg)](LICENSE)
 [![Langue: Français](https://img.shields.io/badge/Langue-Français-blue.svg)]()
 
 ---
 
-## 📖 À propos
+## 📖 About
 
-Cette documentation a pour objectif d'expliquer **simplement et rigoureusement** ce qu'est l'Intelligence Artificielle (IA). Elle s'adresse aux débutants curieux comme aux personnes souhaitant structurer leurs connaissances.
+The goal of this documentation is to explain **simply and rigorously** what Artificial Intelligence (AI) is. It is aimed at curious beginners as well as at people wishing to structure their knowledge.
 
-L'IA transforme déjà notre quotidien : médecine, agriculture, éducation, finance, transports... Comprendre ses principes est devenu essentiel pour tout citoyen et professionnel du XXIᵉ siècle.
+AI is already transforming our daily life: medicine, agriculture, education, finance, transport... Understanding its principles has become essential for every citizen and professional of the 21ˢᵗ century.
 
 ---
 
-## 📚 Table des matières
+## 📚 Table of contents
 
-| # | Chapitre | Description |
+| # | Chapter | Description |
 |---|----------|-------------|
-| 1 | [Introduction à l'IA](docs/01-introduction.md) | Qu'est-ce que l'Intelligence Artificielle ? |
-| 2 | [Histoire de l'IA](docs/02-histoire.md) | De Turing aux modèles génératifs modernes |
-| 3 | [Concepts fondamentaux](docs/03-concepts-fondamentaux.md) | Données, algorithmes, modèles, entraînement |
-| 4 | [Les types d'IA](docs/04-types-ia.md) | IA faible, IA générale, IA symbolique vs connexionniste |
-| 5 | [Le Machine Learning](docs/05-machine-learning.md) | Apprentissage supervisé, non supervisé, par renforcement |
-| 6 | [Le Deep Learning](docs/06-deep-learning.md) | Réseaux de neurones, Transformers et LLM |
-| 7 | [Applications concrètes](docs/07-applications.md) | L'IA dans la santé, l'agriculture, la finance... |
-| 8 | [Éthique et enjeux](docs/08-ethique.md) | Biais, vie privée, emploi et gouvernance |
-| 9 | [Glossaire](docs/09-glossaire.md) | Définitions des termes essentiels |
-| 10 | [Ressources pour aller plus loin](docs/10-ressources.md) | Cours, livres et outils recommandés |
+| 1 | [Introduction to AI](docs/01-introduction.md) | What is Artificial Intelligence? |
+| 2 | [History of AI](docs/02-histoire.md) | From Turing to modern generative models |
+| 3 | [Fundamental concepts](docs/03-concepts-fondamentaux.md) | Data, algorithms, models, training |
+| 4 | [The types of AI](docs/04-types-ia.md) | Narrow AI, general AI, symbolic vs connectionist AI |
+| 5 | [Machine Learning](docs/05-machine-learning.md) | Supervised, unsupervised, reinforcement learning |
+| 6 | [Deep Learning](docs/06-deep-learning.md) | Neural networks, Transformers and LLMs |
+| 7 | [Concrete applications](docs/07-applications.md) | AI in healthcare, agriculture, finance... |
+| 8 | [Ethics and stakes](docs/08-ethique.md) | Bias, privacy, employment and governance |
+| 9 | [Glossary](docs/09-glossaire.md) | Definitions of the essential terms |
+| 10 | [Resources to go further](docs/10-ressources.md) | Recommended courses, books and tools |
 
 ---
 
-## ⚡ Résumé en 30 secondes
+## ⚡ 30-second summary
 
-L'**Intelligence Artificielle** est un domaine de l'informatique qui vise à créer des machines capables d'accomplir des tâches qui requièrent traditionnellement l'intelligence humaine : comprendre le langage, reconnaître des images, prendre des décisions, apprendre de l'expérience.
+**Artificial Intelligence** is a field of computer science that aims to create machines capable of performing tasks that traditionally require human intelligence: understanding language, recognizing images, making decisions, learning from experience.
 
-Elle repose aujourd'hui principalement sur le **Machine Learning** : plutôt que de programmer des règles explicites, on fournit des **données** à un algorithme qui **apprend** à reconnaître des motifs et à généraliser.
-
----
-
-## 🌟 Comment utiliser cette documentation ?
-
-- **Débutant ?** Commencez par l'[Introduction](docs/01-introduction.md) et lisez les chapitres dans l'ordre.
-- **Pressé ?** Le [Glossaire](docs/09-glossaire.md) résume les termes clés.
-- **Praticien ?** Allez directement au [Machine Learning](docs/05-machine-learning.md) et au [Deep Learning](docs/06-deep-learning.md).
+It today relies mainly on **Machine Learning**: rather than programming explicit rules, one provides **data** to an algorithm that **learns** to recognize patterns and to generalize.
 
 ---
 
-## 🤝 Contribuer
+## 🌟 How to use this documentation?
 
-Les contributions sont les bienvenues ! Consultez le fichier [CONTRIBUTING.md](CONTRIBUTING.md) pour connaître les règles de contribution.
-
-1. Forkez le projet
-2. Créez une branche (`git checkout -b amelioration/mon-amelioration`)
-3. Committez vos changements (`git commit -m "Ajout d'une amélioration"`)
-4. Poussez la branche (`git push origin amelioration/mon-amelioration`)
-5. Ouvrez une Pull Request
+- **Beginner?** Start with the [Introduction](docs/01-introduction.md) and read the chapters in order.
+- **In a hurry?** The [Glossary](docs/09-glossaire.md) summarizes the key terms.
+- **Practitioner?** Go directly to [Machine Learning](docs/05-machine-learning.md) and [Deep Learning](docs/06-deep-learning.md).
 
 ---
 
-## 📄 Licence
+## 🤝 Contributing
 
-Ce projet est sous licence **MIT**. Vous êtes libre de l'utiliser, le modifier et le redistribuer. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
+Contributions are welcome! See the [CONTRIBUTING.md](CONTRIBUTING.md) file for the contribution rules.
+
+1. Fork the project
+2. Create a branch (`git checkout -b amelioration/mon-amelioration`)
+3. Commit your changes (`git commit -m "Ajout d'une amélioration"`)
+4. Push the branch (`git push origin amelioration/mon-amelioration`)
+5. Open a Pull Request
 
 ---
 
-## ✍️ Auteur
+## 📄 License
 
-**Jonathan** — Documentation rédigée en français, septembre 2026.
+This project is licensed under **MIT**. You are free to use, modify and redistribute it. See the [LICENSE](LICENSE) file for more details.
+
+---
+
+## ✍️ Author
+
+**Jonathan** — Documentation written in French, September 2026.
