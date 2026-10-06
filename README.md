@@ -8,8 +8,8 @@
 
 > A complete and accessible guide to understand AI: its concepts, its history, its applications and its stakes.
 
-[![Licence: MIT](https://img.shields.io/badge/Licence-MIT-green.svg)](LICENSE)
-[![Langue: Français](https://img.shields.io/badge/Langue-Français-blue.svg)]()
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Language: French](https://img.shields.io/badge/Language-French-blue.svg)]()
 
 ---
 
